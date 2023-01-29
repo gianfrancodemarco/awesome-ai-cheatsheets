@@ -2,25 +2,11 @@
 
 [Becoming Human Cheatsheets](General/BecomingHumanCheatSheets.pdf): A general view over Neural Networks, Machine Learning, DeepLearning & Big Data
 
-
-
-### Machine Learning
-
-[Data Science](Machine&#x20;Learning/Data&#x20;Science&#x20;Cheatsheet.pdf"): An overview on Machine Learning, from probabilities to Neural Networks  
-[Machine Learning Cheatsheet](Machine&#x20;Learning/Machine&#x20;Learning&#x20;Cheatsheet.pdf): Summary	of Machine Learning Algorithms descriptions, advantages and use cases.  
-[Model Selection and Validation](Machine&#x20;Learning/Model&#x20;Selection&#x20;and&#x20;Validation.pdf): An overview of evaluation metrics for supervised learning,  unsupervised learning and model selection  
-[A Comprehensive Guide to Machine Learning](<Machine Learning/A Comprehensive Guide to Machine Learning.pdf>)  
-[A Course in Machine Learning](<Machine Learning/A Course in Machine Learning.pdf>)  
-[Data Science All-In-One](<Machine Learning/Data Science All-In-One.pdf>)  
-[Support Vector Machines](<Support Vector Machines.pdf>)  
-[MLOps Overview, Definition and Architecture](<MLOps Overview, Definition and Architecture.pdf>)  
-[Statistical Machine Learning](<Statistical Machine Learning.pdf>)  
-
 ### Refreshers
 
-[Probabilities and Statistics](Refreshers/Probabilities&#x20;and&#x20;Statistics.pdf)  
-[Linear Algebra and Calculus](Refreshers/Linear&#x20;Algebra&#x20;and&#x20;Calculus.pdf)  
 [Awesome Statistics Notes](<Refreshers/Awesome Statistics Notes.pdf>)  
+[Linear Algebra and Calculus](Refreshers/Linear&#x20;Algebra&#x20;and&#x20;Calculus.pdf)  
+[Probabilities and Statistics](Refreshers/Probabilities&#x20;and&#x20;Statistics.pdf)  
 [SQL Basics Cheat Sheet.pdf](<Refreshers/SQL Basics Cheat Sheet.pdf>)  
 
 ### Python
@@ -28,3 +14,23 @@
 [Comprehensive Python Cheatsheet](Comprehensive&#x20;Python&#x20;Cheatsheet.pdf)
 [10 minutes to Pandas](Python/Pandas.pdf)
 
+### Machine Learning
+
+[A Comprehensive Guide to Machine Learning](<Machine Learning/A Comprehensive Guide to Machine Learning.pdf>)  
+[A Course in Machine Learning](<Machine Learning/A Course in Machine Learning.pdf>)  
+[Data Science All-In-One](<Machine Learning/Data Science All-In-One.pdf>)  
+[Data Science](Machine&#x20;Learning/Data&#x20;Science&#x20;Cheatsheet.pdf"): An overview on Machine Learning, from probabilities to Neural Networks  
+[Machine Learning Cheatsheet](Machine&#x20;Learning/Machine&#x20;Learning&#x20;Cheatsheet.pdf): Summary	of Machine Learning Algorithms descriptions, advantages and use cases.  
+[MLops Course](<Machine Learning/MLOps Course.html>) A practical course in MLOps
+[MLOps Overview, Definition and Architecture](<Machine Learning/MLOps Overview, Definition and Architecture.pdf>)  
+[Model Selection and Validation](Machine&#x20;Learning/Model&#x20;Selection&#x20;and&#x20;Validation.pdf): An overview of evaluation metrics for supervised learning,  unsupervised learning and model selection  
+[Statistical Machine Learning](<Machine Learning/Statistical Machine Learning.pdf>)
+[Supervised Learning](<Machine Learning/Supervised Learning.pdf>)
+[Support Vector Machines](<Machine Learning/Support Vector Machines.pdf>)  
+[Unsupervised Learning](<Machine Learning/Unsupervised Learning.pdf>)
+
+### Deep Learning
+
+[Deep Learning Tuning Playbook](<Deep Learning/Deep Learning Tuning Playbook.html>) Hyperparameter Tuning for maximizing the performance of deep learning models
+[Deep Learning](<Deep Learning/Deep Learning.pdf>) Hyperparameter Tuning for maximizing the performance of deep learning models
+[Understanding Deep Learning](<Deep Learning/Understanding Deep Learning - 2023.pdf>) All of modern Deep Learning (2023)
