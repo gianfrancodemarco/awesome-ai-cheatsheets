@@ -8,7 +8,9 @@
 [Linear Algebra and Calculus](<Maths & Statistics/Linear Algebra and Calculus.pdf>)  
 [Probabilities and Statistics](<Maths & Statistics/Probabilities and Statistics.pdf>)  
 [SQL Basics Cheat Sheet](<Maths & Statistics/SQL Basics Cheat Sheet.pdf>)  
-[Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](<Maths & Statistics/A comprehensive guide to many stats misinterpretations.pdf>)
+[Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](<Maths & Statistics/A comprehensive guide to many stats misinterpretations.pdf)  
+
+[Basic Statistics Cheat Sheet](Maths & Statistics/Basic Statistics Cheat Sheet.pdf)
 
 ### Python
 
@@ -21,7 +23,7 @@
 [A Course in Machine Learning](<Machine Learning/A Course in Machine Learning.pdf>)  
 [Data Science All-In-One](<Machine Learning/Data Science All-In-One.pdf>)  
 [Data Science](Machine&#x20;Learning/Data&#x20;Science&#x20;Cheatsheet.pdf"): An overview on Machine Learning, from probabilities to Neural Networks  
-[Machine Learning Cheatsheet](Machine&#x20;Learning/Machine&#x20;Learning&#x20;Cheatsheet.pdf): Summary	of Machine Learning Algorithms descriptions, advantages and use cases.  
+[Machine Learning Cheatsheet](Machine&#x20;Learning/Machine&#x20;Learning&#x20;Cheatsheet.pdf): Summary of Machine Learning Algorithms descriptions, advantages and use cases.  
 [MLops Course](<Machine Learning/MLOps Course.html>) A practical course in MLOps
 
 [MLOps Overview, Definition and Architecture](<Machine Learning/MLOps Overview, Definition and Architecture.pdf>)  
@@ -30,6 +32,8 @@
 [Supervised Learning](<Machine Learning/Supervised Learning.pdf>)
 [Support Vector Machines](<Machine Learning/Support Vector Machines.pdf>)  
 [Unsupervised Learning](<Machine Learning/Unsupervised Learning.pdf>)
+
+[Machine Learning Cheatsheet 2](Machine Learning/Machine Learning Cheatsheet 2.pdf)
 
 ### Deep Learning
 
