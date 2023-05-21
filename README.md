@@ -39,4 +39,9 @@
 
 [Attention and Transformers](<Deep Learning/Attention and Transformers.pdf>) Attention and Transformers notes
 
+[Pytorch Cheatsheet](<Deep Learning/Pytorch Cheatsheet.pdf>)
+
+
+
 To download Medium articles: [scribe + percollate](https://blog.drepram.com/download-medium-articles-into-pdfs.html)
+
